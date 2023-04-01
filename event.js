@@ -241,7 +241,7 @@ $(".button-solid41").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">EA SPORTS </p><p>FIFA 23</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Lab 4th Floor</p><p>Student Coordinator:<br>Mr.  Mohd Faizan - 8861187281 </p><p id="rules">Rules: <br />Participants: 2 make a team. Any number of participants from a college can participate for the events. The event is open to both PG and UG students. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">EA SPORTS </p><p>FIFA 23</p><p id="date">Date: Day 1 & 2</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Lab 4th Floor</p><p>Student Coordinator:<br>Mr.  Mohd Faizan - 8861187281 </p><p id="rules">Rules: <br />Participants: 2 make a team. Any number of participants from a college can participate for the events. The event is open to both PG and UG students. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
