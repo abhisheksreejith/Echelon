@@ -1,4 +1,4 @@
-$(".button-solid1").click(function() {
+$(".button-solid").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -10,7 +10,7 @@ $(".button-solid1").click(function() {
     });
 });
 
-$(".button-solid").click(function() {
+$(".button-solid1").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -50,7 +50,7 @@ $(".button-solid4").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">THE MONARCHS</p><p>BUSINESS MANAGEMENT TEAM</p><p id="date">Date: <p> Day 1 [12:00pm to 05:00pm]</p><p> Day 2 [09:00am to 04:00pm]</p></p><p id="fee">Entry Fee: Rs 200/-</p><p id="location">Location: L102</p><p>Student Coordinator:<br>MS. Jishna M - 8139063933 </p><p id="rules">Rules: <br />4 make a team. Any number of participants from a college can participate for the event. The event is open to both PG and UG students. Participants should carry laptops, net setters, pen drives etc. for their use. The organizers shall not be responsible for providing any of these items. Judges and the organizers decision will be final and binding. Any team found using unfair means shall be immediately disqualified. To keep your identity confidential, participants are supposed to use the team’s name allotted by Echelon team.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">THE MONARCHS</p><p>BUSINESS MANAGEMENT TEAM</p><p id="date">Date: <p> Day 1 [12:00pm to 05:00pm]</p><p> Day 2 [09:00am to 04:00pm]</p></p><p id="fee">Entry Fee: Rs 200/-</p><p id="location">Location: L102</p><p>Student Coordinator:<br>Ms. Jishna M - 8139063933 </p><p id="rules">Rules: <br />4 make a team. Any number of participants from a college can participate for the event. The event is open to both PG and UG students. Participants should carry laptops, net setters, pen drives etc. for their use. The organizers shall not be responsible for providing any of these items. Judges and the organizers decision will be final and binding. Any team found using unfair means shall be immediately disqualified. To keep your identity confidential, participants are supposed to use the team’s name allotted by Echelon team.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -97,7 +97,7 @@ $(".button-solid8").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">KAIZEN</p><p>OPERATIONS</p><p id="date">Date: <p> Day 1 [12:00am to 05:00pm]</p><p> Day 2 [09:00am to 04:00pm]</p></p><p id="fee">Entry Fee: Rs 200/-</p><p id="location">Location:L103</p><p>Student Coordinator:<br>Mr. Nandan Kumar d – 8129123831</p><p id="rules">Rules: <br />3 make a team. Any number of participants from a college can participate for the event. The event is open to both PG and UG students. Participants should carry laptops, net setters, pen drives etc. for their use. The organizers shall not be responsible for providing any of these items. Judges and the organizers decision will be final and binding. Any team found using unfair means shall be immediately disqualified. To keep your identity confidential, participants are supposed to use the team’s name allotted by Echelon team.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">KAIZEN</p><p>OPERATIONS</p><p id="date">Date: <p> Day 1 [12:00am to 05:00pm]</p><p> Day 2 [09:00am to 04:00pm]</p></p><p id="fee">Entry Fee: Rs 200/-</p><p id="location">Location:L103</p><p>Student Coordinator:<br>Mr. Nandan Kumar D – 8129123831</p><p id="rules">Rules: <br />3 make a team. Any number of participants from a college can participate for the event. The event is open to both PG and UG students. Participants should carry laptops, net setters, pen drives etc. for their use. The organizers shall not be responsible for providing any of these items. Judges and the organizers decision will be final and binding. Any team found using unfair means shall be immediately disqualified. To keep your identity confidential, participants are supposed to use the team’s name allotted by Echelon team.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -117,7 +117,7 @@ $(".button-solid9").click(function() {
     });
 });
 
-$(".button-solid26").click(function() {
+$(".button-solid10").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -129,7 +129,7 @@ $(".button-solid26").click(function() {
     });
 });
 
-$(".button-solid27").click(function() {
+$(".button-solid11").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -141,7 +141,7 @@ $(".button-solid27").click(function() {
     });
 });
 
-$(".button-solid28").click(function() {
+$(".button-solid12").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -153,7 +153,7 @@ $(".button-solid28").click(function() {
     });
 });
 
-$(".button-solid42").click(function() {
+$(".button-solid13").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -165,7 +165,7 @@ $(".button-solid42").click(function() {
     });
 });
 
-$(".button-solid38").click(function() {
+$(".button-solid14").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -177,11 +177,11 @@ $(".button-solid38").click(function() {
     });
 });
 
-$(".button-solid31").click(function() {
+$(".button-solid15").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">PANTO MIMER</p><p>MIME SHOW</p><p id="date">Date: [11:30pm to 01:20pm] </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Auditorium</p><p>Student Coordinator:<br>Mr. Akshay -9048348213 </p><p id="rules">Rules: <br />Theme: Social Cause. Participants: 6 to 8 make a team. Time Limit: 8+2 Mins. Any number of participants from a college can participate for the events. The event is open to both PG and UG students. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">PANTO MIMER</p><p>MIME SHOW</p><p id="date">Date: [11:30am to 01:20pm] </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Auditorium</p><p>Student Coordinator:<br>Mr. Akshay -9048348213 </p><p id="rules">Rules: <br />Theme: Social Cause. Participants: 6 to 8 make a team. Time Limit: 8+2 Mins. Any number of participants from a college can participate for the events. The event is open to both PG and UG students. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -189,7 +189,7 @@ $(".button-solid31").click(function() {
     });
 });
 
-$(".button-solid39").click(function() {
+$(".button-solid16").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -201,7 +201,7 @@ $(".button-solid39").click(function() {
     });
 });
 
-$(".button-solid33").click(function() {
+$(".button-solid17").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -213,7 +213,7 @@ $(".button-solid33").click(function() {
     });
 });
 
-$(".button-solid34").click(function() {
+$(".button-solid18").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -225,7 +225,7 @@ $(".button-solid34").click(function() {
     });
 });
 
-$(".button-solid35").click(function() {
+$(".button-solid19").click(function() {
     Swal.fire({
         title: "Event Details",
 
@@ -237,11 +237,138 @@ $(".button-solid35").click(function() {
     });
 });
 
-$(".button-solid41").click(function() {
+$(".button-solid20").click(function() {
     Swal.fire({
         title: "Event Details",
 
         html: '<div class="modalEventDetails"><p id="eventName">EA SPORTS </p><p>FIFA 23</p><p id="date">Date: Day 1 & 2</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Lab 4th Floor</p><p>Student Coordinator:<br>Mr.  Mohd Faizan - 8861187281 </p><p id="rules">Rules: <br />Participants: 2 make a team. Any number of participants from a college can participate for the events. The event is open to both PG and UG students. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+
+$(".button-solid21").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">MATRIX </p><p>CODING</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Ms. Pooja Dileep - 8129710797</p><p id="rules">Rules: <br />Participants: 2.  Total round: 3. Language: C, C++, Java. No Gadgets are allowed. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+
+$(".button-solid22").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">ART OF DESIGN </p><p>WEB DESIGN</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Mr. Pavan Kumar K – 7090582452</p><p id="rules">Rules: <br /> Participants: 2. Total Round: 2. Language: HTML, CSS, JavaScript.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+
+$(".button-solid23").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">CLASH OF TITAN </p><p>GAMING</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Mr. Rohan D Karkera – 8921237465</p><p id="rules">Rules: <br />Participants: 4. On premises. Bring your own phone and earphones. No tablets allowed.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+$(".button-solid24").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">WOLF OF WALL STREET </p><p>IT MANAGER</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Ms. Shobitha Shetty - 8123070487</p><p id="rules">Rules: <br />Participant: 1. Rules and Rounds will be given on the spot. The Contestant must carry a laptop.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+$(".button-solid25").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">THE OFFICE  </p><p>TECH-TALK</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Ms. Swathi Y V – 7022415188</p><p id="rules">Rules: <br />Participant: 1. Rules and Round will be given on the spot. Round 1 and Round 2 . </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+$(".button-solid26").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">MIND HUNTER </p><p>QUIZ</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Mr. Sukesh - 6361776570</p><p id="rules">Rules: <br />Participants: 2.  No conferring will be allowed between teams during the Quiz. No Gadgets allowed. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+$(".button-solid27").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">FINDING NEMO </p><p>TREASURE HUNT</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Ms. Bhavanishesha S M - 7619269968</p><p id="rules">Rules: <br />Participants: 2. Round details will be given on the spot. Should not participate in any other event. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+
+$(".button-solid28").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">LA LA LAND </p><p>DANCE</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Ms. Prathiksha H S – 6360292916</p><p id="rules">Rules: <br />Participants: Minimum 5 member.  Time Duration: Max 5 minutes. Music should be submitted in pen drive at least 1 hour before the competition. Props are allowed. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+$(".button-solid29").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">PIXELS </p><p>PHOTOGRAPHY</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Mr. Deepak CH – 8971290622</p><p id="rules">Rules: <br />Participants: 1. Participants should get their own laptop, camera and headphone. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+
+$(".button-solid30").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">THE REAL LIFE </p><p>VIDEOGRAPHY</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Mr. Vivek - 6361356901</p><p id="rules">Rules: <br />Participants: 2. Cover all activities of Sambhram and Medha. Should not participate in any other event. Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+
+$(".button-solid31").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">THE TERMINATORS </p><p>IOT EXHIBITION</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Mr. Deepak M - 9901939816</p><p id="rules">Rules: <br />Participants: Max 5 members. Theme: innovative.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
