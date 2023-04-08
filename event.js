@@ -268,7 +268,7 @@ $(".button-solid21").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">MATRIX </p><p>CODING</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block Lab 3 </p><p>Student Coordinator:<br>Ms. Pooja Dileep - 8129710797</p><p id="rules">Rules: <br />Participants: 2.  Total round: 3. Language: C, C++, Java. No Gadgets are allowed. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">MATRIX </p><p>CODING</p><p id="date">Date: <p>Day 1 [11:00am to 12:00pm, 12:15pm to 1:15pm]</p><p>Day 2 [10:00am to 11:00am, 11:15am to 12:15pm] </p> </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block Lab 3 </p><p>Student Coordinator:<br>Ms. Pooja Dileep - 8129710797</p><p id="rules">Rules: <br />Participants: 2.  Total round: 3. Language: C, C++, Java. No Gadgets are allowed. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -280,7 +280,7 @@ $(".button-solid22").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">ART OF DESIGN </p><p>WEB DESIGN</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location:  PG Block Lab 1 </p><p>Student Coordinator:<br>Mr. Pavan Kumar K – 7090582452</p><p id="rules">Rules: <br /> Participants: 2. Total Round: 2. Language: HTML, CSS, JavaScript.</p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">ART OF DESIGN </p><p>WEB DESIGN</p><p id="date">Date: <p>Day 1 [11:30am to 12:30pm]</p><p>Day 2 [11:00am to 12:00pm, 11:15am to 12:30pm] </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location:  PG Block Lab 1 </p><p>Student Coordinator:<br>Mr. Pavan Kumar K – 7090582452</p><p id="rules">Rules: <br /> Participants: 2. Total Round: 2. Language: HTML, CSS, JavaScript.</p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -292,7 +292,7 @@ $(".button-solid23").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">CLASH OF TITAN </p><p>GAMING</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location:  PG Block Lab 1</p><p>Student Coordinator:<br>Mr. Rohan D Karkera – 8921237465</p><p id="rules">Rules: <br />Participants: 4. On premises. Bring your own phone and earphones. No tablets allowed.  </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">CLASH OF TITAN </p><p>GAMING</p><p id="date">Date:<p>Day 1 [11:30am to 12:30pm]</p><p>Day 2 [11:00am to 12:00pm, 11:15am to 12:30pm]  </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location:  PG Block Class 303</p><p>Student Coordinator:<br>Mr. Rohan D Karkera – 8921237465</p><p id="rules">Rules: <br />Participants: 4. On premises. Bring your own phone and earphones. No tablets allowed.  </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -303,7 +303,7 @@ $(".button-solid24").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">WOLF OF WALL STREET </p><p>IT MANAGER</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: 2nd Floor New Building 201 </p><p>Student Coordinator:<br>Ms. Shobitha Shetty - 8123070487</p><p id="rules">Rules: <br />Participant: 1. Rules and Rounds will be given on the spot. The Contestant must carry a laptop.  </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">WOLF OF WALL STREET </p><p>IT MANAGER</p><p id="date">Date: <p>Day 1 [11:00am to 01:00pm]</p><p>Day 2 [09:00am to 11:00am] </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block Class 204 & Seminar Hall </p><p>Student Coordinator:<br>Ms. Shobitha Shetty - 8123070487</p><p id="rules">Rules: <br />Participant: 1. Rules and Rounds will be given on the spot. The Contestant must carry a laptop.  </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -314,7 +314,7 @@ $(".button-solid25").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">THE OFFICE  </p><p>TECH-TALK</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Ms. Swathi Y V – 7022415188</p><p id="rules">Rules: <br />Participant: 1. Rules and Round will be given on the spot. Round 1 and Round 2 . </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">THE OFFICE  </p><p>TECH-TALK</p><p id="date">Date: <p>Day 1 [01:00pm to 04:00pm]</p><p>Day 2 [09:00am to 11:00am, 01:00pm to 04:pm] </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block Class 203 </p><p>Student Coordinator:<br>Ms. Swathi Y V – 7022415188</p><p id="rules">Rules: <br />Participant: 1. Rules and Round will be given on the spot. Round 1 and Round 2 . </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -325,7 +325,7 @@ $(".button-solid26").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">MIND HUNTER </p><p>QUIZ</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: Seminar hall </p><p>Student Coordinator:<br>Mr. Sukesh - 6361776570</p><p id="rules">Rules: <br />Participants: 2.  No conferring will be allowed between teams during the Quiz. No Gadgets allowed. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">MIND HUNTER </p><p>QUIZ</p><p id="date">Date: <p>Day 1 [11:30am to 12:30pm, 02:00pm to 03:00pm]</p><p>Day 2 [09:00am to 11:00am, 11:15am to 12:15pm]  </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block Class 301 </p><p>Student Coordinator:<br>Mr. Sukesh - 6361776570</p><p id="rules">Rules: <br />Participants: 2.  No conferring will be allowed between teams during the Quiz. No Gadgets allowed. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -336,7 +336,7 @@ $(".button-solid27").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">FINDING NEMO </p><p>TREASURE HUNT</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: 2nd Floor New Building 204 </p><p>Student Coordinator:<br>Ms. Bhavanishesha S M - 7619269968</p><p id="rules">Rules: <br />Participants: 2. Round details will be given on the spot. Should not participate in any other event. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">FINDING NEMO </p><p>TREASURE HUNT</p><p id="date">Date: <p>Day 1 [11:00am to 04:00pm]</p><p>Day 2 [09:00am to 12:00pm]  </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block Class 302</p><p>Student Coordinator:<br>Ms. Bhavanishesha S M - 7619269968</p><p id="rules">Rules: <br />Participants: 2. Round details will be given on the spot. Should not participate in any other event. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -348,7 +348,7 @@ $(".button-solid28").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">LA LA LAND </p><p>DANCE</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: Auditorium</p><p>Student Coordinator:<br>Ms. Prathiksha H S – 6360292916</p><p id="rules">Rules: <br />Participants: Minimum 5 member.  Time Duration: Max 5 minutes. Music should be submitted in pen drive at least 1 hour before the competition. Props are allowed. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">LA LA LAND </p><p>DANCE</p><p id="date">Date: Day 1 [02:00pm to 04:00pm] </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: Auditorium</p><p>Student Coordinator:<br>Ms. Prathiksha H S – 6360292916</p><p id="rules">Rules: <br />Participants: Minimum 5 member.  Time Duration: Max 5 minutes. Music should be submitted in pen drive at least 1 hour before the competition. Props are allowed. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -359,7 +359,7 @@ $(".button-solid29").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">PIXELS </p><p>PHOTOGRAPHY</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location"> </p><p>Student Coordinator:<br>Mr. Deepak CH – 8971290622</p><p id="rules">Rules: <br />Participants: 1. Participants should get their own laptop, camera and headphone. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">PIXELS </p><p>PHOTOGRAPHY</p><p id="date">Date:<p> Day 1 [11:30am to 01:00pm, 02:00pm to 04:00pm]</p> </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location"> Location: PG Block Class 202</p><p>Student Coordinator:<br>Mr. Deepak CH – 8971290622</p><p id="rules">Rules: <br />Participants: 1. Participants should get their own laptop, camera and headphone. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -371,7 +371,7 @@ $(".button-solid30").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">THE REAL LIFE </p><p>VIDEOGRAPHY</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location"></p><p>Student Coordinator:<br>Mr. Vivek - 6361356901</p><p id="rules">Rules: <br />Participants: 2. Cover all activities of Sambhram and Medha. Should not participate in any other event. Participants should get their own gadgets.  </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">THE REAL LIFE </p><p>VIDEOGRAPHY</p><p id="date">Date:<p> Day 1 [11:00am to 04:00pm]</p><p>Day 2 [09:00am to 01:00pm] </p></p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block Class 201</p><p>Student Coordinator:<br>Mr. Vivek - 6361356901</p><p id="rules">Rules: <br />Participants: 2. Cover all activities of Sambhram and Medha. Should not participate in any other event. Participants should get their own gadgets.  </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -383,7 +383,7 @@ $(".button-solid31").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">THE TERMINATORS </p><p>IOT EXHIBITION</p><p id="date">Date: Day 1 </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block 6th floor </p><p>Student Coordinator:<br>Mr. Deepak M - 9901939816</p><p id="rules">Rules: <br />Participants: Max 5 members. Theme: innovative.  </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">THE TERMINATORS </p><p>IOT EXHIBITION</p><p id="date">Date: <p> Day 1 [11:30am to 04:00pm]</p><p>Day 2 [09:00am to 12:00pm] </p> </p><p id="fee">Entry Fee: Rs 150/- per head</p><p id="location">Location: PG Block 6th floor </p><p>Student Coordinator:<br>Mr. Deepak M - 9901939816</p><p id="rules">Rules: <br />Participants: Max 5 members. Theme: innovative.  </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
