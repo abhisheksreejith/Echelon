@@ -1,3 +1,15 @@
+$(".button-solida").click(function() {
+    Swal.fire({
+        title: "Event Details",
+
+        html: '<div class="modalEventDetails"><p id="eventName">LA FIESTA</p><p>SPOT GAMES</p><p id="date">Date: Day 1 & 2</p><p id="fee">(Spot registration)</p><p id="location">Location: Outdoor</p><p>Student Coordinator:<br>Mr. Mahammad Asman - 9901251370</p><p id="rules">Rules: <br />Participants: Individual event. Any number of participants from a college can participate for the events. The event is open to both PG and UG students. </p><a class="reglink" href="https://register.sditechelonmedha.com/">Register</a></div>',
+        showCloseButton: true,
+        icon: "",
+        showCancelButton: false,
+        showConfirmButton: false,
+    });
+});
+
 $(".button-solid").click(function() {
     Swal.fire({
         title: "Event Details",
